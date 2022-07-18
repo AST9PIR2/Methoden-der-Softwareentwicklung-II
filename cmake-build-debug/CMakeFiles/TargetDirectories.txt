@@ -1,3 +1,0 @@
-C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/CMakeFiles/Methoden_der_Softwareentwicklung_II.dir
-C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
