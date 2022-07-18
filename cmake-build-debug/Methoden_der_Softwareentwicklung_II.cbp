@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Methoden_der_Softwareentwicklung_II"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Methoden_der_Softwareentwicklung_II">
+				<Option output="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Methoden_der_Softwareentwicklung_II.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 Methoden_der_Softwareentwicklung_II"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Methoden_der_Softwareentwicklung_II/fast">
+				<Option output="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Methoden_der_Softwareentwicklung_II.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2021.2.3/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 Methoden_der_Softwareentwicklung_II/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/character.cpp">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/character.h">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/hero.cpp">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/hero.h">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/item.cpp">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/item.h">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/main.cpp">
+			<Option target="Methoden_der_Softwareentwicklung_II"/>
+		</Unit>
+		<Unit filename="C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

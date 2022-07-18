@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/character.h
+string
+-
+item.h
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/item.h
+
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/hero.h
+string
+-
+item.h
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/item.h
+character.h
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/character.h
+
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/item.h
+string
+-
+
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/main.cpp
+iostream
+-
+hero.h
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/hero.h
+character.h
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/character.h
+item.h
+C:/Users/Pirmin.000/OneDrive - mci4me.at/Dokumente/2_Semester/Methoden der Softwareentwicklung II/1_Aufgabe/item.h
+
